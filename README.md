@@ -2,11 +2,20 @@
 
 # Follow Us
 
-<a href="https://www.instagram.com/appwithflutter/"><img src="/ss/icons/instagram.png" width="20" height="20"> @appwithflutter</a>
-
-<a href="t.me/appwithflutter"><img src="/ss/icons/telegram.png" width="20" height="20"> appwithflutter</a>
-
-<a href="https://www.facebook.com/appwithflutter/"><img src="/ss/icons/facebook.png" width="20" height="20"> appwithflutter</a>
+<table>
+  <tr>
+    <td><img src="/ss/icons/instagram.png" width="20" height="20" /></td>
+    <td><a href="https://www.instagram.com/appwithflutter/">@appwithflutter</a></td>
+  </tr>
+  <tr>
+    <td><img src="/ss/icons/telegram.png" width="20" height="20" /></td>
+    <td><a href="https://t.me/appwithflutter">t.me/appwithflutter</a></td>
+  </tr>
+  <tr>
+    <td><img src="/ss/icons/facebook.png" width="20" height="20" /></td>
+    <td><a href="https://www.facebook.com/appwithflutter/">appwithflutter</a></td>
+  </tr>
+</table>
 
 ScreenShot | ScreenShot
 ------------ | -------------
