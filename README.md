@@ -1,5 +1,4 @@
-## Detail explanation available at => https://www.appwithflutter.com/flutter-database-note-app-sqflite/
-
+# Detail explanation available at [here]([https://www.appwithflutter.com/flutter-database-note-app-sqflite/)
 
 ## Follow Us
 
@@ -18,7 +17,7 @@
   </tr>
 </table>
 
-ScreenShot | ScreenShot
+Note List | New note
 ------------ | -------------
 ![Flutter Note app using Sqlflite and Getx package](ss/flutter-database-note-list.png) | ![Flutter Note app using Sqlflite and Getx package](ss/flutter-database-add-note.png) 
 
