@@ -1,6 +1,7 @@
-# Detail explanation available at => https://www.appwithflutter.com/flutter-database-note-app-sqflite/
+## Detail explanation available at => https://www.appwithflutter.com/flutter-database-note-app-sqflite/
 
-# Follow Us
+
+## Follow Us
 
 <table>
   <tr>
@@ -19,4 +20,5 @@
 
 ScreenShot | ScreenShot
 ------------ | -------------
-![Flutter Note app using Sqlflite and Getx package](/ss/flutter-note-list.png) | ![Flutter Note app using Sqlflite and Getx package](/ss/flutter-add-note.png) 
+![Flutter Note app using Sqlflite and Getx package](ss/flutter-database-note-list.png) | ![Flutter Note app using Sqlflite and Getx package](ss/flutter-database-add-note.png) 
+
